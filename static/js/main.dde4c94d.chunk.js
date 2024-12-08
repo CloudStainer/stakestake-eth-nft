@@ -700,7 +700,7 @@
                                 Object(mn.jsx)("a", {
                                   className: "nav-link",
                                   target: "_blank",
-                                  href: f.SCAN_LINK,
+                                  href: "https://etherscan.io/address/0x0000000000000000000000000000",
                                   children: Object(mn.jsx)(Nn.a, {
                                     type: "button",
                                     className: "contract",

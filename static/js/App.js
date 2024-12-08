@@ -331,7 +331,7 @@ function App() {
               ai={"flext-start"}
             >
               <s.TextTitle>Mint your $STEAK</s.TextTitle>
-              <a className="nav-link" target="_blank" href={CONFIG.SCAN_LINK}>
+              <a className="nav-link" target="_blank" href={"https://etherscan.io/address/0x0000000000000000000000000000"}>
                 <FileText type="button" className={"contract"}></FileText>
               </a>
             </s.Container>
