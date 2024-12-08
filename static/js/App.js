@@ -307,7 +307,7 @@ function App() {
             <a
               className="nav-link"
               target="_blank"
-              href={CONFIG.MARKETPLACE_LINK}
+              href={"https://opensea.io/collection/"}
             >
               <s.MenuLink>OpenSea</s.MenuLink>{" "}
             </a>
@@ -578,7 +578,7 @@ function App() {
           <a
             className="nav-link"
             target="_blank"
-            href="https://passch.medium.com/introducing-sharedstake-nft-collection-ce74cb82ca60"
+            href="https://passch.medium.com/"
           >
             <s.MenuLink>Story</s.MenuLink>{" "}
           </a>
@@ -586,7 +586,7 @@ function App() {
           <a
             className="nav-link"
             target="_blank"
-            href="https://passch.medium.com/how-to-mint-sharedsteak-nft-2434395093ae"
+            href="https://passch.medium.com/"
           >
             <s.MenuLink>How to</s.MenuLink>{" "}
           </a>
@@ -594,7 +594,7 @@ function App() {
           <a
             className="nav-link"
             target="_blank"
-            href={CONFIG.MARKETPLACE_LINK}
+            href={"https://opensea.io/collection/"}
           >
             <s.MenuLink>OpenSea</s.MenuLink>{" "}
           </a>
