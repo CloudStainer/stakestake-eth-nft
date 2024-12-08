@@ -353,7 +353,7 @@ function App() {
                     <a
                       className="nav-link"
                       target="_blank"
-                      href="https://twitter.com/_passch"
+                      href="https://x.com/StakeStake_ETH"
                     >
                       <s.MenuLink>@_passch</s.MenuLink>
                     </a>
@@ -603,17 +603,10 @@ function App() {
 
       <s.SocialWrapper>
         <SocialIcon
-          url="https://twitter.com/_passch"
+          url="https://x.com/StakeStake_ETH"
           target="_blank"
           className="test"
           network="twitter"
-          style={{ height: 30, width: 30 }}
-        />
-        <SocialIcon
-          url="https://discord.com/invite/C9GhCv86My"
-          target="_blank"
-          className="test"
-          network="discord"
           style={{ height: 30, width: 30 }}
         />
       </s.SocialWrapper>
